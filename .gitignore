@@ -6,3 +6,6 @@ ppt
 # also some documents I need for vscode
 .vscode
 a.exe
+
+# delete test files
+test*
