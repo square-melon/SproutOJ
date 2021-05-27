@@ -1,0 +1,8 @@
+# You can find ppt on website
+# to reduce the time to push
+# I put ppt in gitignore
+ppt
+
+# also some documents I need for vscode
+.vscode
+a.exe
